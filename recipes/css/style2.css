@@ -1,0 +1,20 @@
+h1 {
+    background-color: #bd441438;
+    text-align: center;
+    color: #2f3f41;
+}
+
+img {
+    width: 400px;
+    height: auto;
+
+}
+
+.section {
+    background-color: #bd441438;
+    color: #2f3f41;
+}
+
+.content {
+    background-color: rgba(230, 167, 65, 0.078);
+}
